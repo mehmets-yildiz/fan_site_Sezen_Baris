@@ -1,1 +1,0 @@
-C'est le projet de fansite commun deux chanteurs turcs, Sezen Aksu et Baris Manço, utilisant HTML, CSS, Flex et Grid.
